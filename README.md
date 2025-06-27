@@ -70,11 +70,10 @@ Expense Traker/
 
 └── README.md
 
+#TO RUN
+ 
 cd server
 npm install
-# Create a .env file with the following:
-# MONGO_URI=your_mongodb_connection_string
-# PORT=5000
 npm run dev
 
 cd expense
