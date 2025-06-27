@@ -1,0 +1,3 @@
+https://chatgpt.com/c/685aa8d4-ab08-800f-a099-3015b8ad8535
+
+run command - npm run dev
