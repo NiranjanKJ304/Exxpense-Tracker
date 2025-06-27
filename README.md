@@ -70,7 +70,7 @@ Expense Traker/
 
 └── README.md
 
-#TO RUN
+## TO RUN
  
 cd server
 npm install
